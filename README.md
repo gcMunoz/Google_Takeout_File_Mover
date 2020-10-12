@@ -2,7 +2,8 @@
 You can follow this project and other project changes via: https://github.com/gesuskryst
 
 Demo Video:
-https://youtu.be/dMkTymbZfw4
+
+[![](http://img.youtube.com/vi/dMkTymbZfw4/0.jpg)](http://www.youtube.com/watch?v=dMkTymbZfw4 "")
 
 
 Description:
